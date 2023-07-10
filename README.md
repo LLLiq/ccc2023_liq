@@ -35,7 +35,7 @@ cd host
 ./template.exe ../build.xilinx_vck5000_gen4x8_qdma_2_202220_1.hw/template.xclbin
 ```
 
-xclbin:
+quick_start:
 为了节约编译时间，我们已经将编译好的xclbin文件发送到github的xclbin文件夹
 可以进入到对应文件夹使用如下命令快速运行
 ```
