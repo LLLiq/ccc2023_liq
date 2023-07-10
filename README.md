@@ -1,5 +1,5 @@
 ccc2023 为 极光队在ccfSys-ccc2023在提交的CV领域的赛题
-其中"filter2D 64x64 image"为基础赛题部分，基于单通道64x64图片filter2D算法的源码。"filter2D HD(1280x720) image"为提高赛题部分，基于单通道720x1080的HD图片filter2D算法的源码
+其中"filter2D_64x64_image"为基础赛题部分，基于单通道64x64图片filter2D算法的源码。"filter2D_HD(1280x720)_image"为提高赛题部分，基于单通道720x1080的HD图片filter2D算法的源码
 
 项目构建：
 进入对应的源码文件夹使用以下命令编译：
