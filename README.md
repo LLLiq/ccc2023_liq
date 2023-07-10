@@ -3,7 +3,28 @@ ccc2023 为 极光队在ccfSys-ccc2023在提交的CV领域的赛题
 
 项目构建：
 进入对应的源码文件夹使用一下命令可一键编译：
+编译最初的的目录默认在项目根目录。
+64x64图像项目编译：
 ```
+cd filter2D_64x64_image/aie
+make all
+cd ../pl
+make all
+cd ../host
+make all
+cd ..
+make all
+```
+
+HD图像项目编译：
+```
+cd filter2D_HD(1280x720)_image/aie
+make all
+cd ../pl
+make all
+cd ../host
+make all
+cd ..
 make all
 ```
 
