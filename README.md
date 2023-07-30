@@ -34,5 +34,5 @@ quick_start:
 ```
 cd host
 make all
-./template.exe ../build.xilinx_vck5000_gen4x8_qdma_2_202220_1.hw/template.xclbin
+./template.exe ./template.xclbin 
 ```
