@@ -29,7 +29,8 @@ cd host
 ```
 
 quick_start:
-为了节约编译时间，我们已经将编译好的xclbin文件发送到quick_start中的host文件夹中
+为了节约编译时间，我们已经将编译好的xclbin文件以及运行所需文件发送到quick_start中的host文件夹中
+
 可以进入到对应文件夹使用如下命令快速运行
 ```
 cd quick_start
