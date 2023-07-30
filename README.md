@@ -2,6 +2,7 @@ ccc2023中的finals分支为极光队在ccfSys-ccc2023决赛中提交的CV领域
 
 其中
 "filter2D_8K"为源代码部分
+
 "quick_start"中为已经编译好的xclbin及host文件
 
 项目构建：
