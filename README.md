@@ -1,4 +1,4 @@
-ccc2023中的finals分支为极光队在ccfSys-ccc2023在提交在CV领域决赛的赛题
+ccc2023中的finals分支为极光队在ccfSys-ccc2023决赛中提交的CV领域赛题
 
 其中
 "filter2D_8K"为源代码部分
