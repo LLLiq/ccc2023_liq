@@ -537,8 +537,8 @@ int main(int argc,char** argv){
 	int errorCount=0;
 	for(unsigned int i=0;i<resultImgSize;++i){
 		if(aie_result[i] != ps_result[i]){
-			std::cout << "Error found @ " << std::dec << i;
-			std::cout << ", (aie_result)" << aie_result[i] << " != (ps_result)" << ps_result[i] <<std::endl;
+			//std::cout << "Error found @ " << std::dec << i;
+			//std::cout << ", (aie_result)" << aie_result[i] << " != (ps_result)" << ps_result[i] <<std::endl;
 			++errorCount;
 		}
 	}
